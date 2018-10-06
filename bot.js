@@ -23,7 +23,7 @@ client.on('ready', () => {
       console.log(`ON ${client.guilds.size} Servers '     Script By : PREDATOR ' `);
     console.log(`----------------`);
   console.log(`Logged in as ${client.user.tag}!`);
-client.user.setGame(`FACT SHOP`,"https://www.twitch.tv/predator12_")
+client.user.setGame(`FACT GROUP`,"https://www.twitch.tv/predator12_")
 client.user.setStatus("dnd")
 });
 
